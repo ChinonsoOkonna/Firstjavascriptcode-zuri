@@ -1,3 +1,3 @@
 # Firstjavascriptcode-zuri
 First task of javascript given by Zuri training
-https://github.com/ChinonsoOkonna
+Page URL  https://chinonsookonna.github.io/Firstjavascriptcode-zuri/
